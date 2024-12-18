@@ -2,5 +2,5 @@
 ### Aqui algumas informações de configuração de ambiente para trabalhar com o Typescript
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Instalar o typescript
 > `npm install --save-dev typescript`
