@@ -1,14 +1,14 @@
-Install Typescript
+## Install Typescript
 npm install --g typescript
 
-// Goto Folder
+## Goto Folder
 cd project
 
-// Create tsconfig.json
+## Create tsconfig.json
 tsc --init
 
-// Compile Ts
+## Compile Ts
 tsc --build
 
-// Execute JS
+## Execute JS
 node app.ts
