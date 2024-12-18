@@ -1,5 +1,6 @@
 # TypeScript
-### Aqui algumas informações de configuração de ambiente para trabalhar com o Typescript
+### Here is some environment configuration information for working with TypeScript.
 
-> Instalar o typescript:
+> [!NOTE]
+> Install Typescript
 > `npm install --save-dev typescript`
