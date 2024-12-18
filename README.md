@@ -1,5 +1,14 @@
-# TypeScript
-### Here is some environment configuration information for working with TypeScript.
+Install Typescript
+npm install --g typescript
 
-> Instalar o typescript:
-`npm install --save-dev typescript`
+// Goto Folder
+cd project
+
+// Create tsconfig.json
+tsc --init
+
+// Compile Ts
+tsc --build
+
+// Execute JS
+node app.ts
