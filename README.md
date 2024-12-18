@@ -5,4 +5,4 @@
 
 > [!NOTE]
 > Install Typescript
-> `#ffffff` `npm install --save-dev typescript`
+> `#000000 npm install --save-dev typescript`
