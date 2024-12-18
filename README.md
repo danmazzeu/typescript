@@ -3,4 +3,5 @@
 
 > [!NOTE]
 > Install Typescript
+> 
 > `npm install --save-dev typescript`
