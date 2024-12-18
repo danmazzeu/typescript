@@ -4,6 +4,11 @@
 
 
 > [!NOTE]
-> **Install Typescript**
-> 
-> `npm install --save-dev typescript`
+>Install NodeJS
+
+>[NodeJs](https://nodejs.org/en).
+
+> [!NOTE]
+> Install Typescript
+
+> `**npm install --save-dev typescript**`
